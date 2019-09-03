@@ -1,7 +1,7 @@
 ---
-title: "N736 Homework 01 - Due Sept 12, 2018"
+title: "N736 Homework 01 - Due Sept 11, 2019"
 author: "Melinda K. Higgins, PhD."
-date: "August 29, 2018"
+date: "September 03, 2019"
 output:
   pdf_document: default
   html_document: default
@@ -11,7 +11,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## N736 Homework 01 - Due Sept 12, 2018
+## N736 Homework 01 - Due Sept 11, 2019
 
 1. Using your statistical software of choice, read in the dataset "Dataset_02" from the `*.CSV`, `*.XLS` or `*.XLSX` format.
 2. Create an analysis report that explains **`every step you did`** - including anything you did manually. Ideally, everything you do to the dataset for fixing the errors or identifying the issues you spot in the data should be done using CODE (aka SYNTAX) so that someone else can take your code and reproduce your results. _[Remember, that "someone else" might be you in a few weeks when you've forgotten what you did earlier...]_

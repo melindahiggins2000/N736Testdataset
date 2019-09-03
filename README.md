@@ -4,8 +4,8 @@ N736 - A Test Dataset
 
 The dataset comes in 3 formats `*.XLS` and `*.XLSX` and `*.CSV`
 
-Also read through the "codebook" information document `NRSG736_Testdataset_p1.docx`
+A partial codebook is available as 
 
-See `Homework01` (either PDF or HTML formats) for **Homework 01** Assignment Due **Wed Sept 12, 2018**
+See `Homework01` (either PDF or HTML formats) for **Homework 01** Assignment Due **Wed Sept 11, 2019**
 
 
